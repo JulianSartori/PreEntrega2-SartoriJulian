@@ -15,7 +15,7 @@
     background-color: rgba(0, 129, 235, 0.438);
     align-items: center;
     flex-wrap: wrap;
-    background-image: url('https://nypem.net/wp-content/uploads/2019/07/books-header-1.jpg');
+    background-image: url('../resources/background__header.jpg');
 }
 
 .div__header h1 {
